@@ -30,12 +30,8 @@ When I'm not debugging or optimizing algorithms, you can find me:
 
 ---
 ### 📊 My GitHub Journey
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&bg_color=00000000" />
-  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakNum=36BCF7" />
-</p>
+### 📈 GitHub Activity
+![Your Activity Graph](https://activity-graph.herokuapp.com/graph?username=VishalCodes-Cpp&theme=github)
 ---
 
 ### 📫 Let's Connect!
