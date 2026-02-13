@@ -30,8 +30,17 @@ When I'm not debugging or optimizing algorithms, you can find me:
 
 ---
 ### 📊 My GitHub Journey
-### 📈 GitHub Activity
-![Your Activity Graph](https://activity-graph.herokuapp.com/graph?username=VishalCodes-Cpp&theme=github)
+### 📊 My GitHub Journey
+
+<p align="left">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" height="190px" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=tokyonight" height="190px" alt="Top Languages" />
+</p>
+
+---
+
+### 📈 Contribution Activity
+![GitHub Grid Graph](https://grid-graphs.vercel.app/graph?username=YOUR_USERNAME&theme=tokyonight)
 ---
 
 ### 📫 Let's Connect!
