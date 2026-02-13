@@ -30,17 +30,18 @@ When I'm not debugging or optimizing algorithms, you can find me:
 
 ---
 ### 📊 My GitHub Journey
-### 📊 My GitHub Journey
 
 <p align="left">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VishalCodes-Cpp&theme=tokyonight" height="190px" alt="Profile Details" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VishalCodes-Cpp&theme=tokyonight" height="190px" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VishalCodes-Cpp&show_icons=true&theme=tokyonight&title_color=36BCF7&icon_color=36BCF7&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalCodes-Cpp&layout=compact&theme=tokyonight&title_color=36BCF7" />
 </p>
 
 ---
 
-### 📈 Contribution Activity
-![GitHub Grid Graph](https://grid-graphs.vercel.app/graph?username=VishalCodes-Cpp&theme=tokyonight)
+### 🏆 GitHub Trophies
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=VishalCodes-Cpp&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
+</p>
 ---
 
 ### 📫 Let's Connect!
