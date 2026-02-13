@@ -1,5 +1,5 @@
 # 💫 About Me:
- I'm currently:<br>🛠️ Building: A Public Grievance Chatbot for local government services.<br>🔐 Project Highlight: Developed an RSA Cryptography Application for secure message encryption/decryption.<br>📚 Strengthening: Data Structures & Algorithms (DSA) and Advanced Web Development.<br>Beyond the Code<br>When I'm not debugging or optimizing algorithms, you can find me:<br><br>🎤 Singing (Music is my favorite escape!)<br>🎬 Watching Movies (Big fan of cinematic storytelling)<br>👕 Exploring High-Fashion and luxury aesthetics.<br>💻 Constantly Forking and contributing to interesting open-source projects.
+ I'm currently:<br>🛠️ Building: A Public Grievance Chatbot for local government services.<br>🔐 Project Highlight: Developed an RSA Cryptography Application for secure message encryption/decryption.<br>📚 Strengthening: Data Structures & Algorithms (DSA) and Advanced Web Development.<br><br><b>Beyond the Code<b><br>When I'm not debugging or optimizing algorithms, you can find me:<br><br>🎤 Singing (Music is my favorite escape!)<br>🎬 Watching Movies (Big fan of cinematic storytelling)<br>👕 Exploring High-Fashion and luxury aesthetics.<br>💻 Constantly Forking and contributing to interesting open-source projects.
 
 
 ## 🌐 Socials:
